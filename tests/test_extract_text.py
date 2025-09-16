@@ -1,5 +1,5 @@
 import os
-from Pilgrimdetector.extract_text import extract_text
+from pilgrimdetector.extract_text import extract_text
 
 def test_txt_extraction(tmp_path):
     # create a temp text file

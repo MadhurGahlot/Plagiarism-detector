@@ -7,3 +7,5 @@ pdf2image
 pytest
 pdfplumber
 python-docx
+opencv-python
+numpy
